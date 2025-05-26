@@ -1,0 +1,19 @@
+# Java and Maven
+/target/
+*.class
+*.jar
+*.war
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment Files
+.env
